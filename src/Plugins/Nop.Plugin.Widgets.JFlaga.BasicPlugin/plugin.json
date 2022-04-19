@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Widget Basic Plugin - by JFlaga",
+  "SystemName": "Widgets.JFlaga.BasicPlugin",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "JFlaga",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.JFlaga.BasicPlugin.dll",
+  "Description": "This plugin is to demonstrate a basic plugin."
+}

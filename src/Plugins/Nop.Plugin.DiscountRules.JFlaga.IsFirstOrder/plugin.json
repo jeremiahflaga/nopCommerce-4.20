@@ -1,11 +1,11 @@
 ﻿{
-  "Group": "",
-  "FriendlyName": "",
-  "SystemName": "",
-  "Version": "1.00",
+  "Group": "Discount requirements",
+  "FriendlyName": "Must be customer's first order",
+  "SystemName": "DiscountRequirement.JFlaga.IsFirstOrder",
+  "Version": "1.0",
   "SupportedVersions": [ "4.20" ],
-  "Author": "Author Name",
+  "Author": "JFlaga",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.DiscountRules.JFlaga.IsFirstOrder.dll",
-  "Description": ""
+  "Description": "This plugin allows you to allow discount only on customer's first order."
 }

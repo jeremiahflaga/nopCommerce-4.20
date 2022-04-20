@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Product View Tracker - by JFlaga",
+  "SystemName": "Nop.Plugin.Widgets.JFlaga.ProductViewTracker",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "JFlaga",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.JFlaga.ProductViewTracker.dll",
+  "Description": ""
+}

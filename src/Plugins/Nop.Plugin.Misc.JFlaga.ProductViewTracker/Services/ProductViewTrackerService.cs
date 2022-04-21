@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using Nop.Core.Data;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Services
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Services
 {
     public class ProductViewTrackerService : IProductViewTrackerService
     {

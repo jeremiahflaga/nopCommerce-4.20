@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Data;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Data;
 using Nop.Services.Cms;
 using Nop.Services.Plugins;
 using Nop.Web.Framework.Infrastructure;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker
 {
     public class ProductViewTrackerPlugin : BasePlugin, IWidgetPlugin
     {
@@ -21,7 +21,7 @@ namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker
 
         public string GetWidgetViewComponentName(string widgetZone)
         {
-            return "Nop.Plugin.Widgets.JFlaga.ProductViewTracker";
+            return "Nop.Plugin.Misc.JFlaga.ProductViewTracker";
         }
 
         public IList<string> GetWidgetZones()

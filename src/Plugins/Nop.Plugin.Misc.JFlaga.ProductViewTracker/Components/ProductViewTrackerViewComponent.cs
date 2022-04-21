@@ -2,16 +2,16 @@
 using Nop.Core;
 using Nop.Core.Domain.Catalog;
 using Nop.Core.Domain.Customers;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Services;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Services;
 using Nop.Services.Catalog;
 using Nop.Web.Framework.Components;
 using Nop.Web.Models.Catalog;
 using System;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Components
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Components
 {
-    [ViewComponent(Name = "Nop.Plugin.Widgets.JFlaga.ProductViewTracker")]
+    [ViewComponent(Name = "Nop.Plugin.Misc.JFlaga.ProductViewTracker")]
     public class ProductViewTrackerViewComponent : NopViewComponent
     {
         private readonly IProductService _productService;

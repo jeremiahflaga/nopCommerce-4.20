@@ -2,14 +2,14 @@
 using Nop.Core;
 using Nop.Data;
 using Nop.Data.Extensions;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Common;
 using System.Linq;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Data
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Data
 {
     public class ProductViewTrackerRecordObjectContext : DbContext, IDbContext
     {

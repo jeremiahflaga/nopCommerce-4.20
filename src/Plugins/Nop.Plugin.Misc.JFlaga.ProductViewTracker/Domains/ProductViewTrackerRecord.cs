@@ -1,6 +1,6 @@
 ﻿using Nop.Core;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains
 {
     public partial class ProductViewTrackerRecord : BaseEntity
     {

@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Nop.Data.Mapping;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Data
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Data
 {
     public partial class ProductViewTrackerRecordMap : NopEntityTypeConfiguration<ProductViewTrackerRecord>
     {

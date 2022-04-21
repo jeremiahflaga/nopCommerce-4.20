@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Nop.Core.Infrastructure;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Data;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Data;
 using Nop.Web.Framework.Infrastructure.Extensions;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Infrastructure
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Infrastructure
 {
     /// <summary>
     /// Represents object for the configuring plugin DB context on application startup

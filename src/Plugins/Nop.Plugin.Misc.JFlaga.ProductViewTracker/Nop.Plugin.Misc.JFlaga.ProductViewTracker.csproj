@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-	<OutputPath>..\..\Presentation\Nop.Web\Plugins\Nop.Plugin.Other.JFlaga.ProductViewTracker</OutputPath>
+	<OutputPath>..\..\Presentation\Nop.Web\Plugins\Nop.Plugin.Misc.JFlaga.ProductViewTracker</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
   </PropertyGroup>
 

@@ -5,12 +5,12 @@ using Nop.Core.Data;
 using Nop.Core.Infrastructure;
 using Nop.Core.Infrastructure.DependencyManagement;
 using Nop.Data;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Data;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Domains;
-using Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Services;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Data;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Domains;
+using Nop.Plugin.Misc.JFlaga.ProductViewTracker.Services;
 using Nop.Web.Framework.Infrastructure.Extensions;
 
-namespace Nop.Plugin.Widgets.JFlaga.ProductViewTracker.Infrastructure
+namespace Nop.Plugin.Misc.JFlaga.ProductViewTracker.Infrastructure
 {
     public class DependencyRegistrar : IDependencyRegistrar
     {
